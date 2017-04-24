@@ -1,0 +1,21 @@
+<p id="notice"><%= notice %></p>
+
+<div class="col-sm-11 col-xs-12 blog-content"><div style="border:6px solid red;float:left;">
+
+<div class="col-sm-11 col-xs-12 blog-content"><%= image_tag @blog.image.url(:medium) %>
+</div></div></div>
+<h2 class= "text-centre">
+  <strong>name:</strong>
+  <%= @blog.name %></h2>
+ 
+
+<p><h4 class="text-left">
+  <strong>Description:</strong>
+  <%= @blog.description %></h4>
+</p>
+
+
+
+
+<li><%= link_to 'Back', blogs_path %></li>
+<%= link_to 'Destroy', @blog, method: :delete, data: { confirm: 'Are you sure more than anything!?' } %>

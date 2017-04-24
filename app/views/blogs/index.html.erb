@@ -1,0 +1,102 @@
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<body>
+<%= render 'blogs/header' %>
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Admission Edge</a>
+            </div>
+              
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    
+                    <li>
+                        <a href="posts">Check out admission edge</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/home-bg.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="site-heading">
+                        <h1>Current Educational Events</h1>
+                        <hr class="small">
+                        <span class="subheading">by Admission edge </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+   <p class="navbar-text pull-right">
+<% if user_signed_in? %>
+   redirect_to @blog_path
+  Logged in as <strong><%= current_user.email %></strong>
+  <%= link_to 'Edit profile', edit_user_registration_path, :class => 'navbar-link' %>|
+  <%= link_to "Logout", destroy_user_session_path, method: :delete, :class => 'navbar-link'  %>
+<% else %>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-fixed-top navbar-right">
+                  <%= link_to "Login", new_user_session_path, :class => 'navbar-link'   %> </div> <ul>
+<% end %>
+<ul class="nav">
+  <li class="active"><a href="/blogs">blogs</a></li>
+</ul>
+</p class>
+
+
+  <div><div>
+
+    <% @blogs.each do |blog| %>
+    <div class="col-xs-12">
+      <div class="text-centre">
+        <h2><%= blog.name %></h2>
+         </div>
+         </div>
+
+
+         <div style="border:1px solid red;float:left;">
+ <h2><%= image_tag blog.image(:thumb) %></h></div>
+     
+
+
+  <div class="container">
+  <div class="col-sm-10 col-sm-offset-1 col-xs-12 blog-content">
+         <h6><%=  truncate blog.description, length: 160 %></h6>
+         </div>
+         </div>
+
+
+      <div class="text-center">
+       <button type="button" class="btn btn-danger">
+         <%= link_to 'Read More', blog %> 
+
+           </div>
+           <br>
+           </div>
+           <% end %>
+           </div>
+        </div>
+
+<li><%= link_to "New blog", new_blog_path %></li>
+<li><%= link_to 'Destroy', @blog, method: :delete, data: { confirm: 'fcuk this!?' } %><li.
+  <%= render 'blogs/footer' %>
+
