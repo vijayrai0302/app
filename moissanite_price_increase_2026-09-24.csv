@@ -7,51 +7,51 @@ product_id,variant_id,status,title,variant,sku,old_price,final_price,changed
 9920599949560,48966668321016,ACTIVE,Certified 3 ct DEW Round Cut Pink Moissanite Solitaire Ring in Gold Plated Vermeil,18K Gold Plated Vermeil / 8,,7000.00,7000.00,No (reverted)
 9920599949560,48966668353784,ACTIVE,Certified 3 ct DEW Round Cut Pink Moissanite Solitaire Ring in Gold Plated Vermeil,18K Gold Plated Vermeil / 9,,7000.00,7000.00,No (reverted)
 9920599949560,48966668386552,ACTIVE,Certified 3 ct DEW Round Cut Pink Moissanite Solitaire Ring in Gold Plated Vermeil,18K Gold Plated Vermeil / 10,,7000.00,7000.00,No (reverted)
-9920600015096,48966668452088,ACTIVE,2.40 ct DEW Certified Round White & Blue Moissanite Pendant In 18K Gold Plated,Yellow Gold,GH-MOI-01021-YG,2800.00,3399.99,Yes
-9920600015096,50038454386936,ACTIVE,2.40 ct DEW Certified Round White & Blue Moissanite Pendant In 18K Gold Plated,Rose Gold,GH-MOI-01021-RG,2800.00,3399.99,Yes
-9920600015096,50038454419704,ACTIVE,2.40 ct DEW Certified Round White & Blue Moissanite Pendant In 18K Gold Plated,White Gold,GH-MOI-01021-WG,2800.00,3399.99,Yes
-9920600080632,48966668878072,ACTIVE,3 ct DEW Certified Marquise Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01020-YG,2800.00,3399.99,Yes
-9920600080632,50038461432056,ACTIVE,3 ct DEW Certified Marquise Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01020-RG,2800.00,3399.99,Yes
-9920600080632,50038461464824,ACTIVE,3 ct DEW Certified Marquise Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01020-WG,2800.00,3399.99,Yes
-9920600146168,48966669304056,ACTIVE,3.35 ct DEW Certified Pear Cut White Moissanite Pendant In 18K Gold Plated,Yellow Gold,GH-MOI-01019-YG,2800.00,3399.99,Yes
-9920600146168,50038471590136,ACTIVE,3.35 ct DEW Certified Pear Cut White Moissanite Pendant In 18K Gold Plated,Rose Gold,GH-MOI-01019-RG,2800.00,3399.99,Yes
-9920600146168,50038471622904,ACTIVE,3.35 ct DEW Certified Pear Cut White Moissanite Pendant In 18K Gold Plated,White Gold,GH-MOI-01019-WG,2800.00,3399.99,Yes
-9920600178936,48966669336824,ACTIVE,Beautiful 3 ct DEW Certified Round Cut White Moissanite Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01018-YG,2800.00,3399.99,Yes
-9920600178936,50038477160696,ACTIVE,Beautiful 3 ct DEW Certified Round Cut White Moissanite Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01018-RG,2800.00,3399.99,Yes
-9920600178936,50038477193464,ACTIVE,Beautiful 3 ct DEW Certified Round Cut White Moissanite Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01018-WG,2800.00,3399.99,Yes
-9920600277240,48966669795576,ACTIVE,2 ct DEW Heart Shaped White Moissanite Designer Pendant In 18K Gold Plated,Yellow Gold,GH-MOI-01017-YG,2800.00,3399.99,Yes
-9920600277240,50038481912056,ACTIVE,2 ct DEW Heart Shaped White Moissanite Designer Pendant In 18K Gold Plated,Rose Gold,GH-MOI-01017-RG,2800.00,3399.99,Yes
-9920600277240,50038481944824,ACTIVE,2 ct DEW Heart Shaped White Moissanite Designer Pendant In 18K Gold Plated,White Gold,GH-MOI-01017-WG,2800.00,3399.99,Yes
-9920600310008,48966670221560,ACTIVE,5.00 ct DEW Certified Round Cut White Moissanite Cross Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01016-YG,2100.00,2599.99,Yes
-9920600310008,50038487286008,ACTIVE,5.00 ct DEW Certified Round Cut White Moissanite Cross Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01016-RG,2100.00,2599.99,Yes
-9920600310008,50038487318776,ACTIVE,5.00 ct DEW Certified Round Cut White Moissanite Cross Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01016-WG,2100.00,2599.99,Yes
+9920600015096,48966668452088,ACTIVE,2.40 ct DEW Certified Round White & Blue Moissanite Pendant In 18K Gold Plated,Yellow Gold,GH-MOI-01021-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600015096,50038454386936,ACTIVE,2.40 ct DEW Certified Round White & Blue Moissanite Pendant In 18K Gold Plated,Rose Gold,GH-MOI-01021-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600015096,50038454419704,ACTIVE,2.40 ct DEW Certified Round White & Blue Moissanite Pendant In 18K Gold Plated,White Gold,GH-MOI-01021-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600080632,48966668878072,ACTIVE,3 ct DEW Certified Marquise Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01020-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600080632,50038461432056,ACTIVE,3 ct DEW Certified Marquise Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01020-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600080632,50038461464824,ACTIVE,3 ct DEW Certified Marquise Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01020-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600146168,48966669304056,ACTIVE,3.35 ct DEW Certified Pear Cut White Moissanite Pendant In 18K Gold Plated,Yellow Gold,GH-MOI-01019-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600146168,50038471590136,ACTIVE,3.35 ct DEW Certified Pear Cut White Moissanite Pendant In 18K Gold Plated,Rose Gold,GH-MOI-01019-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600146168,50038471622904,ACTIVE,3.35 ct DEW Certified Pear Cut White Moissanite Pendant In 18K Gold Plated,White Gold,GH-MOI-01019-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600178936,48966669336824,ACTIVE,Beautiful 3 ct DEW Certified Round Cut White Moissanite Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01018-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600178936,50038477160696,ACTIVE,Beautiful 3 ct DEW Certified Round Cut White Moissanite Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01018-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600178936,50038477193464,ACTIVE,Beautiful 3 ct DEW Certified Round Cut White Moissanite Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01018-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600277240,48966669795576,ACTIVE,2 ct DEW Heart Shaped White Moissanite Designer Pendant In 18K Gold Plated,Yellow Gold,GH-MOI-01017-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600277240,50038481912056,ACTIVE,2 ct DEW Heart Shaped White Moissanite Designer Pendant In 18K Gold Plated,Rose Gold,GH-MOI-01017-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600277240,50038481944824,ACTIVE,2 ct DEW Heart Shaped White Moissanite Designer Pendant In 18K Gold Plated,White Gold,GH-MOI-01017-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600310008,48966670221560,ACTIVE,5.00 ct DEW Certified Round Cut White Moissanite Cross Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01016-YG,2100.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600310008,50038487286008,ACTIVE,5.00 ct DEW Certified Round Cut White Moissanite Cross Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01016-RG,2100.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600310008,50038487318776,ACTIVE,5.00 ct DEW Certified Round Cut White Moissanite Cross Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01016-WG,2100.00,4199.99,Yes (raised to 4199.99 minimum)
 9920600375544,48966670254328,ACTIVE,3.50 ct DEW Princess Cut White Moissanite Pendant in 18K Gold Plated Vermeil – Birthday Gift,Yellow Gold,GH-MOI-01015-YG,3500.00,4199.99,Yes
 9920600375544,50038493839608,ACTIVE,3.50 ct DEW Princess Cut White Moissanite Pendant in 18K Gold Plated Vermeil – Birthday Gift,Rose Gold,GH-MOI-01015-RG,3500.00,4199.99,Yes
 9920600375544,50038493872376,ACTIVE,3.50 ct DEW Princess Cut White Moissanite Pendant in 18K Gold Plated Vermeil – Birthday Gift,White Gold,GH-MOI-01015-WG,3500.00,4199.99,Yes
-9920600441080,48966670680312,ACTIVE,1.80 ct DEW F/VS1 White Moissanite Cross Pendant in 18K Gold Plated Vermeil – Religious Gift,Yellow Gold,GH-MOI-01014-YG,2800.00,3399.99,Yes
-9920600441080,50038498984184,ACTIVE,1.80 ct DEW F/VS1 White Moissanite Cross Pendant in 18K Gold Plated Vermeil – Religious Gift,Rose Gold,GH-MOI-01014-RG,2800.00,3399.99,Yes
-9920600441080,50038499016952,ACTIVE,1.80 ct DEW F/VS1 White Moissanite Cross Pendant in 18K Gold Plated Vermeil – Religious Gift,White Gold,GH-MOI-01014-WG,2800.00,3399.99,Yes
+9920600441080,48966670680312,ACTIVE,1.80 ct DEW F/VS1 White Moissanite Cross Pendant in 18K Gold Plated Vermeil – Religious Gift,Yellow Gold,GH-MOI-01014-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600441080,50038498984184,ACTIVE,1.80 ct DEW F/VS1 White Moissanite Cross Pendant in 18K Gold Plated Vermeil – Religious Gift,Rose Gold,GH-MOI-01014-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600441080,50038499016952,ACTIVE,1.80 ct DEW F/VS1 White Moissanite Cross Pendant in 18K Gold Plated Vermeil – Religious Gift,White Gold,GH-MOI-01014-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920600506616,48966671106296,ACTIVE,3.70 ct DEW F/VS1 White Moissanite Pendant in 18K Gold Plated Vermeil – Anniversary Gift,Yellow Gold,GH-MOI-01013-YG,3500.00,4199.99,Yes
 9920600506616,50038503833848,ACTIVE,3.70 ct DEW F/VS1 White Moissanite Pendant in 18K Gold Plated Vermeil – Anniversary Gift,Rose Gold,GH-MOI-01013-RG,3500.00,4199.99,Yes
 9920600506616,50038503866616,ACTIVE,3.70 ct DEW F/VS1 White Moissanite Pendant in 18K Gold Plated Vermeil – Anniversary Gift,White Gold,GH-MOI-01013-WG,3500.00,4199.99,Yes
-9920600539384,48966671139064,ACTIVE,3.50 ct DEW Certified Moissanite Pendant in 18K Gold Plated Vermeil – Wedding & Holiday Gift,Yellow Gold,GH-MOI-01012-YG,2800.00,3399.99,Yes
-9920600539384,50038509895928,ACTIVE,3.50 ct DEW Certified Moissanite Pendant in 18K Gold Plated Vermeil – Wedding & Holiday Gift,Rose Gold,GH-MOI-01012-RG,2800.00,3399.99,Yes
-9920600539384,50038509928696,ACTIVE,3.50 ct DEW Certified Moissanite Pendant in 18K Gold Plated Vermeil – Wedding & Holiday Gift,White Gold,GH-MOI-01012-WG,2800.00,3399.99,Yes
-9920600604920,48966671565048,ACTIVE,2.10 ct DEW Certified Cross Moissanite Pendant in 18K Gold Plated Vermeil – Holiday Gift,Yellow Gold,GH-MOI-01011-YG,2800.00,3399.99,Yes
-9920600604920,50038516351224,ACTIVE,2.10 ct DEW Certified Cross Moissanite Pendant in 18K Gold Plated Vermeil – Holiday Gift,Rose Gold,GH-MOI-01011-RG,2800.00,3399.99,Yes
-9920600604920,50038516383992,ACTIVE,2.10 ct DEW Certified Cross Moissanite Pendant in 18K Gold Plated Vermeil – Holiday Gift,White Gold,GH-MOI-01011-WG,2800.00,3399.99,Yes
-9920600637688,48966671597816,ACTIVE,2.10 ct DEW White Cross Moissanite Pendant in 18K Gold Plated Vermeil – Certified Christian Gift,Yellow Gold,GH-MOI-01010-YG,2800.00,3399.99,Yes
-9920600637688,50038523363576,ACTIVE,2.10 ct DEW White Cross Moissanite Pendant in 18K Gold Plated Vermeil – Certified Christian Gift,Rose Gold,GH-MOI-01010-RG,2800.00,3399.99,Yes
-9920600637688,50038523396344,ACTIVE,2.10 ct DEW White Cross Moissanite Pendant in 18K Gold Plated Vermeil – Certified Christian Gift,White Gold,GH-MOI-01010-WG,2800.00,3399.99,Yes
+9920600539384,48966671139064,ACTIVE,3.50 ct DEW Certified Moissanite Pendant in 18K Gold Plated Vermeil – Wedding & Holiday Gift,Yellow Gold,GH-MOI-01012-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600539384,50038509895928,ACTIVE,3.50 ct DEW Certified Moissanite Pendant in 18K Gold Plated Vermeil – Wedding & Holiday Gift,Rose Gold,GH-MOI-01012-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600539384,50038509928696,ACTIVE,3.50 ct DEW Certified Moissanite Pendant in 18K Gold Plated Vermeil – Wedding & Holiday Gift,White Gold,GH-MOI-01012-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600604920,48966671565048,ACTIVE,2.10 ct DEW Certified Cross Moissanite Pendant in 18K Gold Plated Vermeil – Holiday Gift,Yellow Gold,GH-MOI-01011-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600604920,50038516351224,ACTIVE,2.10 ct DEW Certified Cross Moissanite Pendant in 18K Gold Plated Vermeil – Holiday Gift,Rose Gold,GH-MOI-01011-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600604920,50038516383992,ACTIVE,2.10 ct DEW Certified Cross Moissanite Pendant in 18K Gold Plated Vermeil – Holiday Gift,White Gold,GH-MOI-01011-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600637688,48966671597816,ACTIVE,2.10 ct DEW White Cross Moissanite Pendant in 18K Gold Plated Vermeil – Certified Christian Gift,Yellow Gold,GH-MOI-01010-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600637688,50038523363576,ACTIVE,2.10 ct DEW White Cross Moissanite Pendant in 18K Gold Plated Vermeil – Certified Christian Gift,Rose Gold,GH-MOI-01010-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600637688,50038523396344,ACTIVE,2.10 ct DEW White Cross Moissanite Pendant in 18K Gold Plated Vermeil – Certified Christian Gift,White Gold,GH-MOI-01010-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920600703224,48966672023800,ACTIVE,3.50 ct DEW Certified Moissanite Pendant 18K Gold Plated,Yellow Gold,GH-MOI-01009-YG,3500.00,4199.99,Yes
 9920600703224,50038527590648,ACTIVE,3.50 ct DEW Certified Moissanite Pendant 18K Gold Plated,Rose Gold,GH-MOI-01009-RG,3500.00,4199.99,Yes
 9920600703224,50038527623416,ACTIVE,3.50 ct DEW Certified Moissanite Pendant 18K Gold Plated,White Gold,GH-MOI-01009-WG,3500.00,4199.99,Yes
-9920600735992,48966672056568,ACTIVE,2.60 ct DEW Certified Moissanite Pendant Birthday Gift for Her 18K Gold Plated,Yellow Gold,GH-MOI-01008-YG,2100.00,2599.99,Yes
-9920600735992,50038534209784,ACTIVE,2.60 ct DEW Certified Moissanite Pendant Birthday Gift for Her 18K Gold Plated,Rose Gold,GH-MOI-01008-RG,2100.00,2599.99,Yes
-9920600735992,50038534242552,ACTIVE,2.60 ct DEW Certified Moissanite Pendant Birthday Gift for Her 18K Gold Plated,White Gold,GH-MOI-01008-WG,2100.00,2599.99,Yes
-9920600801528,48966672482552,ACTIVE,3.30 ct DEW White Moissanite Pendant 18K Gold Plated,Yellow Gold,GH-MOI-01007-YG,2800.00,3399.99,Yes
-9920600801528,50038541025528,ACTIVE,3.30 ct DEW White Moissanite Pendant 18K Gold Plated,Rose Gold,GH-MOI-01007-RG,2800.00,3399.99,Yes
-9920600801528,50038541058296,ACTIVE,3.30 ct DEW White Moissanite Pendant 18K Gold Plated,White Gold,GH-MOI-01007-WG,2800.00,3399.99,Yes
+9920600735992,48966672056568,ACTIVE,2.60 ct DEW Certified Moissanite Pendant Birthday Gift for Her 18K Gold Plated,Yellow Gold,GH-MOI-01008-YG,2100.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600735992,50038534209784,ACTIVE,2.60 ct DEW Certified Moissanite Pendant Birthday Gift for Her 18K Gold Plated,Rose Gold,GH-MOI-01008-RG,2100.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600735992,50038534242552,ACTIVE,2.60 ct DEW Certified Moissanite Pendant Birthday Gift for Her 18K Gold Plated,White Gold,GH-MOI-01008-WG,2100.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600801528,48966672482552,ACTIVE,3.30 ct DEW White Moissanite Pendant 18K Gold Plated,Yellow Gold,GH-MOI-01007-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600801528,50038541025528,ACTIVE,3.30 ct DEW White Moissanite Pendant 18K Gold Plated,Rose Gold,GH-MOI-01007-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920600801528,50038541058296,ACTIVE,3.30 ct DEW White Moissanite Pendant 18K Gold Plated,White Gold,GH-MOI-01007-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920600867064,48966672908536,ACTIVE,3.65 ct DEW White Moissanite Pendant in 18K Gold Plated Vermeil – Certified Christmas Gift,Yellow Gold,GH-MOI-01006-YG,3500.00,4199.99,Yes
 9920600867064,50038547742968,ACTIVE,3.65 ct DEW White Moissanite Pendant in 18K Gold Plated Vermeil – Certified Christmas Gift,Rose Gold,GH-MOI-01006-RG,3500.00,4199.99,Yes
 9920600867064,50038547775736,ACTIVE,3.65 ct DEW White Moissanite Pendant in 18K Gold Plated Vermeil – Certified Christmas Gift,White Gold,GH-MOI-01006-WG,3500.00,4199.99,Yes
@@ -64,15 +64,15 @@ product_id,variant_id,status,title,variant,sku,old_price,final_price,changed
 9920601030904,48966673793272,ACTIVE,5.00 ct DEW Certified Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01003-YG,3500.00,4199.99,Yes
 9920601030904,50038566158584,ACTIVE,5.00 ct DEW Certified Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01003-RG,3500.00,4199.99,Yes
 9920601030904,50038566191352,ACTIVE,5.00 ct DEW Certified Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01003-WG,3500.00,4199.99,Yes
-9920601129208,48966674252024,ACTIVE,Certified 2.80 ct DEW Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01002-YG,2800.00,3399.99,Yes
-9920601129208,50038573924600,ACTIVE,Certified 2.80 ct DEW Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01002-RG,2800.00,3399.99,Yes
-9920601129208,50038573957368,ACTIVE,Certified 2.80 ct DEW Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01002-WG,2800.00,3399.99,Yes
-9920601260280,48966674743544,ACTIVE,3.45 ct DEW Certified Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01001-YG,2100.00,2599.99,Yes
-9920601260280,50038578577656,ACTIVE,3.45 ct DEW Certified Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01001-RG,2100.00,2599.99,Yes
-9920601260280,50038578610424,ACTIVE,3.45 ct DEW Certified Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01001-WG,2100.00,2599.99,Yes
-9920601358584,48966676185336,ACTIVE,3.50 ct DEW Certified White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01000-YG,1470.00,1799.99,Yes
-9920601358584,50038586573048,ACTIVE,3.50 ct DEW Certified White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01000-RG,1470.00,1799.99,Yes
-9920601358584,50038586605816,ACTIVE,3.50 ct DEW Certified White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01000-WG,1470.00,1799.99,Yes
+9920601129208,48966674252024,ACTIVE,Certified 2.80 ct DEW Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01002-YG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920601129208,50038573924600,ACTIVE,Certified 2.80 ct DEW Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01002-RG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920601129208,50038573957368,ACTIVE,Certified 2.80 ct DEW Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01002-WG,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920601260280,48966674743544,ACTIVE,3.45 ct DEW Certified Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01001-YG,2100.00,4199.99,Yes (raised to 4199.99 minimum)
+9920601260280,50038578577656,ACTIVE,3.45 ct DEW Certified Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01001-RG,2100.00,4199.99,Yes (raised to 4199.99 minimum)
+9920601260280,50038578610424,ACTIVE,3.45 ct DEW Certified Round Cut White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01001-WG,2100.00,4199.99,Yes (raised to 4199.99 minimum)
+9920601358584,48966676185336,ACTIVE,3.50 ct DEW Certified White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Yellow Gold,GH-MOI-01000-YG,1470.00,4199.99,Yes (raised to 4199.99 minimum)
+9920601358584,50038586573048,ACTIVE,3.50 ct DEW Certified White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,Rose Gold,GH-MOI-01000-RG,1470.00,4199.99,Yes (raised to 4199.99 minimum)
+9920601358584,50038586605816,ACTIVE,3.50 ct DEW Certified White Moissanite Solitaire Pendant in 18K Gold Plated Vermeil,White Gold,GH-MOI-01000-WG,1470.00,4199.99,Yes (raised to 4199.99 minimum)
 9920601522424,48966677102840,ACTIVE,Certified 5.80ct VS1 White Moissanite Handmade Ring 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00999,7700.00,7700.00,No (reverted)
 9920601522424,48966677135608,ACTIVE,Certified 5.80ct VS1 White Moissanite Handmade Ring 18K Gold Plated,18K Gold Plated Vermeil / 5,,7700.00,7700.00,No (reverted)
 9920601522424,48966677168376,ACTIVE,Certified 5.80ct VS1 White Moissanite Handmade Ring 18K Gold Plated,18K Gold Plated Vermeil / 6,,7700.00,7700.00,No (reverted)
@@ -415,12 +415,12 @@ product_id,variant_id,status,title,variant,sku,old_price,final_price,changed
 9920605061368,48966705840376,ACTIVE,Certified 1.1ct VVS1 Pink Moissanite Ring Jewellery Gift for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 8,,4900.00,5899.99,Yes
 9920605061368,48966705873144,ACTIVE,Certified 1.1ct VVS1 Pink Moissanite Ring Jewellery Gift for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 9,,4900.00,5899.99,Yes
 9920605061368,48966705905912,ACTIVE,Certified 1.1ct VVS1 Pink Moissanite Ring Jewellery Gift for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 10,,4900.00,5899.99,Yes
-9920605126904,48966706331896,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00942,2800.00,3399.99,Yes
-9920605126904,48966706364664,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,3399.99,Yes
-9920605126904,48966706397432,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,3399.99,Yes
-9920605126904,48966706430200,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,3399.99,Yes
-9920605126904,48966706462968,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,3399.99,Yes
-9920605126904,48966706495736,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,3399.99,Yes
+9920605126904,48966706331896,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00942,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605126904,48966706364664,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605126904,48966706397432,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605126904,48966706430200,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605126904,48966706462968,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605126904,48966706495736,ACTIVE,Certified 2.35ct VS1 White Moissanite Ring Birthday Gift Jewellery 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920605225208,48966706954488,ACTIVE,Certified 5.5ct VS1 White Moissanite Ring Jewellery Gift for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00941,7700.00,7700.00,No (reverted)
 9920605225208,48966706987256,ACTIVE,Certified 5.5ct VS1 White Moissanite Ring Jewellery Gift for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 5,,7700.00,7700.00,No (reverted)
 9920605225208,48966707020024,ACTIVE,Certified 5.5ct VS1 White Moissanite Ring Jewellery Gift for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 6,,7700.00,7700.00,No (reverted)
@@ -451,12 +451,12 @@ product_id,variant_id,status,title,variant,sku,old_price,final_price,changed
 9920605421816,48966708625656,ACTIVE,Certified 7.55ct VS1 Blue Moissanite Ring Fine Jewellery for Gift 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 8,,4900.00,5899.99,Yes
 9920605421816,48966708658424,ACTIVE,Certified 7.55ct VS1 Blue Moissanite Ring Fine Jewellery for Gift 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 9,,4900.00,5899.99,Yes
 9920605421816,48966708691192,ACTIVE,Certified 7.55ct VS1 Blue Moissanite Ring Fine Jewellery for Gift 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 10,,4900.00,5899.99,Yes
-9920605487352,48966709117176,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00936,2800.00,3399.99,Yes
-9920605487352,48966709149944,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,3399.99,Yes
-9920605487352,48966709182712,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,3399.99,Yes
-9920605487352,48966709215480,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,3399.99,Yes
-9920605487352,48966709248248,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,3399.99,Yes
-9920605487352,48966709281016,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,3399.99,Yes
+9920605487352,48966709117176,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00936,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605487352,48966709149944,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605487352,48966709182712,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605487352,48966709215480,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605487352,48966709248248,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920605487352,48966709281016,ACTIVE,Certified 1.99ct VS1 Blue Moissanite Ring Jewellery for Women Gift 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920605618424,48966709805304,ACTIVE,Certified 3ct VVS1 Shiny Pink Moissanite Ring in Jewellery for Love 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00935,7000.00,7000.00,No (reverted)
 9920605618424,48966709838072,ACTIVE,Certified 3ct VVS1 Shiny Pink Moissanite Ring in Jewellery for Love 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 5,,7000.00,7000.00,No (reverted)
 9920605618424,48966709870840,ACTIVE,Certified 3ct VVS1 Shiny Pink Moissanite Ring in Jewellery for Love 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 6,,7000.00,7000.00,No (reverted)
@@ -499,12 +499,12 @@ product_id,variant_id,status,title,variant,sku,old_price,final_price,changed
 9920605978872,48966713049336,ACTIVE,Certified 4.45ct VS1 Radiant White Moissanite Ring for Gift Use 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 8,,6300.00,6300.00,No (reverted)
 9920605978872,48966713082104,ACTIVE,Certified 4.45ct VS1 Radiant White Moissanite Ring for Gift Use 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 9,,6300.00,6300.00,No (reverted)
 9920605978872,48966713114872,ACTIVE,Certified 4.45ct VS1 Radiant White Moissanite Ring for Gift Use 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 10,,6300.00,6300.00,No (reverted)
-9920606142712,48966714065144,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00928,2800.00,3399.99,Yes
-9920606142712,48966714097912,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,3399.99,Yes
-9920606142712,48966714130680,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,3399.99,Yes
-9920606142712,48966714163448,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,3399.99,Yes
-9920606142712,48966714196216,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,3399.99,Yes
-9920606142712,48966714228984,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,3399.99,Yes
+9920606142712,48966714065144,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00928,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920606142712,48966714097912,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920606142712,48966714130680,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920606142712,48966714163448,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920606142712,48966714196216,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920606142712,48966714228984,ACTIVE,Certified 2.35ct VS1 Blue Moissanite Ring Fine Jewellery for Women 18K Gold Plated Ve 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920606241016,48966714654968,ACTIVE,Certified 4.80ct VS1 Princess Cut White Moissanite Solitaire Ring 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00927,7000.00,7000.00,No (reverted)
 9920606241016,48966714687736,ACTIVE,Certified 4.80ct VS1 Princess Cut White Moissanite Solitaire Ring 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 5,,7000.00,7000.00,No (reverted)
 9920606241016,48966714720504,ACTIVE,Certified 4.80ct VS1 Princess Cut White Moissanite Solitaire Ring 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 6,,7000.00,7000.00,No (reverted)
@@ -763,18 +763,18 @@ product_id,variant_id,status,title,variant,sku,old_price,final_price,changed
 9920609026296,48966738936056,ACTIVE,4.35 ct DEW Certified White Moissanite Ring in – Anniversary Gift for Wife 18K Gold Pla 18K Gold Plated,18K Gold Plated Vermeil / 8,,5600.00,6799.99,Yes
 9920609026296,48966738968824,ACTIVE,4.35 ct DEW Certified White Moissanite Ring in – Anniversary Gift for Wife 18K Gold Pla 18K Gold Plated,18K Gold Plated Vermeil / 9,,5600.00,6799.99,Yes
 9920609026296,48966739001592,ACTIVE,4.35 ct DEW Certified White Moissanite Ring in – Anniversary Gift for Wife 18K Gold Pla 18K Gold Plated,18K Gold Plated Vermeil / 10,,5600.00,6799.99,Yes
-9920609091832,48966739427576,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00884,2800.00,3399.99,Yes
-9920609091832,48966739460344,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,3399.99,Yes
-9920609091832,48966739493112,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,3399.99,Yes
-9920609091832,48966739525880,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,3399.99,Yes
-9920609091832,48966739558648,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,3399.99,Yes
-9920609091832,48966739591416,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,3399.99,Yes
-9920609124600,48966739624184,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00883,2800.00,3399.99,Yes
-9920609124600,48966739656952,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,3399.99,Yes
-9920609124600,48966739689720,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,3399.99,Yes
-9920609124600,48966739722488,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,3399.99,Yes
-9920609124600,48966739755256,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,3399.99,Yes
-9920609124600,48966739788024,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,3399.99,Yes
+9920609091832,48966739427576,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00884,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609091832,48966739460344,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609091832,48966739493112,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609091832,48966739525880,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609091832,48966739558648,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609091832,48966739591416,ACTIVE,9.00 ct DEW Certified White Moissanite Solitaire Ring – Anniversary Gift for Wife 18K G 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609124600,48966739624184,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00883,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609124600,48966739656952,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609124600,48966739689720,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609124600,48966739722488,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609124600,48966739755256,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920609124600,48966739788024,ACTIVE,6.00 ct DEW White Moissanite Ring – Thoughtful Labor Day Gift for Her 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920609222904,48966740246776,ACTIVE,7.50 ct DEW White Moissanite Ring in – Elegant Jewellery for Mom's Gift 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00882,5600.00,6799.99,Yes
 9920609222904,48966740279544,ACTIVE,7.50 ct DEW White Moissanite Ring in – Elegant Jewellery for Mom's Gift 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 5,,5600.00,6799.99,Yes
 9920609222904,48966740312312,ACTIVE,7.50 ct DEW White Moissanite Ring in – Elegant Jewellery for Mom's Gift 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 6,,5600.00,6799.99,Yes
@@ -1717,12 +1717,12 @@ product_id,variant_id,status,title,variant,sku,old_price,final_price,changed
 9920624787704,48966884393208,ACTIVE,4.85 ct DEW Oval Cut Off White Moissanite Ring in – Certified Sparkler 18K Gold Plated 18K Gold Plated,18K Gold Plated Vermeil / 8,,5600.00,6799.99,Yes
 9920624787704,48966884425976,ACTIVE,4.85 ct DEW Oval Cut Off White Moissanite Ring in – Certified Sparkler 18K Gold Plated 18K Gold Plated,18K Gold Plated Vermeil / 9,,5600.00,6799.99,Yes
 9920624787704,48966884458744,ACTIVE,4.85 ct DEW Oval Cut Off White Moissanite Ring in – Certified Sparkler 18K Gold Plated 18K Gold Plated,18K Gold Plated Vermeil / 10,,5600.00,6799.99,Yes
-9920624853240,48966884524280,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00725,2800.00,3399.99,Yes
-9920624853240,48966884557048,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,3399.99,Yes
-9920624853240,48966884589816,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,3399.99,Yes
-9920624853240,48966884622584,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,3399.99,Yes
-9920624853240,48966884655352,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,3399.99,Yes
-9920624853240,48966884688120,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,3399.99,Yes
+9920624853240,48966884524280,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00725,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920624853240,48966884557048,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 5,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920624853240,48966884589816,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 6,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920624853240,48966884622584,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 8,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920624853240,48966884655352,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 9,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920624853240,48966884688120,ACTIVE,2.50 ct DEW Off White Moissanite Solitaire Ring in – Elegant & Rare 18K Gold Plated Ver 18K Gold Plated,18K Gold Plated Vermeil / 10,,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920624951544,48966885146872,ACTIVE,3.70 ct DEW Radiant Cut Blue Treated Moissanite Solitaire Ring in WOW 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00724,4900.00,5899.99,Yes
 9920624951544,48966885179640,ACTIVE,3.70 ct DEW Radiant Cut Blue Treated Moissanite Solitaire Ring in WOW 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 5,,4900.00,5899.99,Yes
 9920624951544,48966885212408,ACTIVE,3.70 ct DEW Radiant Cut Blue Treated Moissanite Solitaire Ring in WOW 18K Gold Plated V 18K Gold Plated,18K Gold Plated Vermeil / 6,,4900.00,5899.99,Yes
@@ -2749,12 +2749,12 @@ product_id,variant_id,status,title,variant,sku,old_price,final_price,changed
 9920635797752,48966967591160,ACTIVE,2.90 ct DEW Emerald Cut Certified White Moissanite Ring For Women 18K Gold Plated Verme 18K Gold Plated,18K Gold Plated Vermeil / 8,GH-MOI-00554-8,4200.00,5099.99,Yes
 9920635797752,48966967623928,ACTIVE,2.90 ct DEW Emerald Cut Certified White Moissanite Ring For Women 18K Gold Plated Verme 18K Gold Plated,18K Gold Plated Vermeil / 9,GH-MOI-00554-9,4200.00,5099.99,Yes
 9920635797752,48966967656696,ACTIVE,2.90 ct DEW Emerald Cut Certified White Moissanite Ring For Women 18K Gold Plated Verme 18K Gold Plated,18K Gold Plated Vermeil / 10,GH-MOI-00554-10,4200.00,5099.99,Yes
-9920635863288,48966968082680,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 7,GH-MOI-00553,2800.00,3399.99,Yes
-9920635863288,48966968115448,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 5,GH-MOI-00553-5,2800.00,3399.99,Yes
-9920635863288,48966968148216,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 6,GH-MOI-00553-6,2800.00,3399.99,Yes
-9920635863288,48966968180984,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 8,GH-MOI-00553-8,2800.00,3399.99,Yes
-9920635863288,48966968213752,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 9,GH-MOI-00553-9,2800.00,3399.99,Yes
-9920635863288,48966968246520,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 10,GH-MOI-00553-10,2800.00,3399.99,Yes
+9920635863288,48966968082680,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 7,GH-MOI-00553,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920635863288,48966968115448,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 5,GH-MOI-00553-5,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920635863288,48966968148216,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 6,GH-MOI-00553-6,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920635863288,48966968180984,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 8,GH-MOI-00553-8,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920635863288,48966968213752,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 9,GH-MOI-00553-9,2800.00,4199.99,Yes (raised to 4199.99 minimum)
+9920635863288,48966968246520,ACTIVE,"Certified 2.50 ct DEW Round Cut Moissanite Solitaire Ring, Double Prongs 18K Gold Plate 18K Gold Plated",18K Gold Plated Vermeil / 10,GH-MOI-00553-10,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920635896056,48966968279288,ACTIVE,2.30 ct DEW Certified Round Cut White Moissanite Sterling Solitaire Ring 18K Gold Plat 18K Gold Plated,18K Gold Plated Vermeil / 7,GH-MOI-00552,3500.00,4199.99,Yes
 9920635896056,48966968312056,ACTIVE,2.30 ct DEW Certified Round Cut White Moissanite Sterling Solitaire Ring 18K Gold Plat 18K Gold Plated,18K Gold Plated Vermeil / 5,GH-MOI-00552-5,3500.00,4199.99,Yes
 9920635896056,48966968344824,ACTIVE,2.30 ct DEW Certified Round Cut White Moissanite Sterling Solitaire Ring 18K Gold Plat 18K Gold Plated,18K Gold Plated Vermeil / 6,GH-MOI-00552-6,3500.00,4199.99,Yes
@@ -2817,7 +2817,7 @@ product_id,variant_id,status,title,variant,sku,old_price,final_price,changed
 9920636780792,48966973882616,ACTIVE,3.20 ct DEW Certified Treated White Moissanite Solitaire Stud Earrings in 18K Gold Plated Vermeil,18K Gold Plated Vermeil,GH-MOI-00537,3500.00,4199.99,Yes
 9920636911864,48966974374136,ACTIVE,3.60 ct DEW Certified Treated White Moissanite Solitaire Stud Earrings in 18K Gold Plated Vermeil,18K Gold Plated Vermeil,GH-MOI-00536,4200.00,5099.99,Yes
 9920636944632,48966974406904,ACTIVE,2.60 ct DEW Certified Treated White Moissanite Solitaire Stud Earrings in 18K Gold Plated Vermeil,18K Gold Plated Vermeil,GH-MOI-00535,3500.00,4199.99,Yes
-9920637010168,48966974832888,ACTIVE,2 ct DEW Certified Treated White Moissanite Solitaire Studs Great Shine 18K Gold Plated,18K Gold Plated Vermeil,GH-MOI-00534,2800.00,3399.99,Yes
+9920637010168,48966974832888,ACTIVE,2 ct DEW Certified Treated White Moissanite Solitaire Studs Great Shine 18K Gold Plated,18K Gold Plated Vermeil,GH-MOI-00534,2800.00,4199.99,Yes (raised to 4199.99 minimum)
 9920637960440,48966985089272,ACTIVE,2.50 ct DEW Certified Treated White Moissanite Solitaire Stud Earrings in 18K Gold Plated Vermeil,18K Gold Plated Vermeil,GH-MOI-00533,3500.00,4199.99,Yes
 9920638025976,48966985154808,ACTIVE,3 ct DEW Certified Treated Off-White Moissanite Solitaire Studs Great Shine 18K Gold Plated,18K Gold Plated Vermeil,GH-MOI-00532,3500.00,4199.99,Yes
 9920638157048,48966985646328,ACTIVE,3 ct DEW Round Cut White Moissanite Solitaire Ring In Gold Vermeil Certified,Gold Vermeil,GH-MOI-00531,7000.00,7000.00,No (reverted)
